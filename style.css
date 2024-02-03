@@ -1,0 +1,24 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.nav{
+	background-color: #333;
+}
+
+a{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+a:hover{
+	background-color: green;
+}
+
+
+.active{
+	background-color: blue;
+}
